@@ -1,7 +1,10 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
-
+Debug/
+*.db
+*.ipch
+*.idb
 # Folder config file
 Desktop.ini
 
@@ -46,10 +49,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.suo
-Debug/HexToSyx.ilk
 *.pdb
-HexToSyx.VC.db
 *.log
 *.tlog
 *.obj
-HexToSyx/Debug/vc140.idb
+
